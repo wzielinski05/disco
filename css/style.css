@@ -5,7 +5,7 @@
 }
 body {
 	background-color: red;
-	animation: disco 0.3s none infinite;
+	animation: disco 0.5s none infinite;
 }
 @keyframes disco {
 	0% {
